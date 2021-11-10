@@ -1,0 +1,17 @@
+{
+  "name": "chainlink-data-feeds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle migrate --reset"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chainlink": "^0.8.2"
+  }
+}
