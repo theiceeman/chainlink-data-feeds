@@ -12,6 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chainlink": "^0.8.2"
+    "@chainlink/contracts": "^0.2.2",
+    "ethers": "^5.5.1",
+    "solc": "^0.8.7"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.6.0"
   }
 }
